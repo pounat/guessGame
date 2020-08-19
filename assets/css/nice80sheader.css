@@ -61,5 +61,5 @@ body {
     color: #f975f7;
     filter: drop-shadow(2px 2px 20px #f008b7);
     transform: rotate(-15deg);
-    -webkit-text-stroke: 4px #f008b7;
+    -webkit-text-stroke: 1px #b6078a;
 }
